@@ -1,7 +1,7 @@
 # shortest_path_algo
 Module 2 / Problem 2: Learn Regular algorithm design by creating a shortest path algo. This is part of the Scientific Computing with Python by Free Code Camp.
 
-Personal note: This is one of the most, if not the most, challenging problems to solve. It has the challenge of solving the code and adds the complexity of understanding algorithms. It's crazy! Sometimes, I felt some of the questions made no sense at all, and somehow, I was expected to read between the lines and come up with a mathematical solution to something I still couldn't understand. Thankfully, I figured out most of the answers by following the comments in the 'help' section. 
+**Personal note:** __This is one of the most, if not the most, challenging problems to solve. It has the challenge of solving the code and adds the complexity of understanding algorithms. It's crazy! Sometimes, I felt some of the questions made no sense at all, and somehow, I was expected to read between the lines and come up with a mathematical solution to something I still couldn't understand. Thankfully, I figured out most of the answers by following the comments in the 'help' section._ 
 
 
 ----
