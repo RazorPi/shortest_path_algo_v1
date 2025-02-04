@@ -5,8 +5,10 @@ Module 2 / Problem 2: Learn Regular algorithm design by creating a shortest path
 
 
 ----
-### ABOUT:
+### ABOUT ALGOS: 
+Algorithms are step-by-step procedures that developers use to perform calculations and solve computational problems.
 
+### ABOUT GRAPHS: 
 Graphs are data structures representing relations between pairs of elements. These elements, called nodes, can be real-life objects, entities, points in space, or others. The connections between the nodes are called the edges.
 Here's a visual representation of a graph:
 
